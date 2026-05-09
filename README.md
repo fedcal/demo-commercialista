@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Commercialista** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://commercialista.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-commercialista/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-commercialista/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-commercialista.git
-cd federico-demo-commercialista
+git clone https://github.com/fedcal/demo-commercialista.git
+cd demo-commercialista
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:commercialista
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-commercialista/
+→ https://fedcal.github.io/demo-commercialista/
 
 ## Hub demos Federico
 
