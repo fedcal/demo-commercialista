@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Chi può accedere al regime forfettario nel 2026?",
+      "risposta": "Il regime forfettario è accessibile a persone fisiche che esercitano attività d'impresa, arti o professioni con ricavi/compensi fino a €85.000 nell'anno precedente. Sono esclusi coloro che partecipano a società di persone, SRL in trasparenza o che percepiscono redditi da lavoro dipendente superiori a €30.000. L'aliquota è del 15% (5% per i primi 5 anni di attività)."
+    },
+    {
+      "domanda": "Siete abilitati alla fattura elettronica B2B e verso la PA?",
+      "risposta": "Sì. Lo studio gestisce per i clienti l'intero ciclo della fatturazione elettronica: trasmissione tramite SDI, conservazione a norma digitale 10 anni, integrazione con i principali gestionali (Fatture in Cloud, Zucchetti, TeamSystem). Siamo intermediari abilitati Agenzia delle Entrate per la trasmissione massiva."
+    },
+    {
+      "domanda": "La prima consulenza è davvero gratuita?",
+      "risposta": "Sì. Offriamo un primo colloquio conoscitivo gratuito di 30-45 minuti, in studio o in videochiamata, per analizzare la situazione fiscale e contabile del cliente e presentare la nostra proposta di collaborazione senza alcun impegno. Contattateci per fissare un appuntamento."
+    },
+    {
+      "domanda": "Quali deduzioni e detrazioni posso recuperare per la mia PMI?",
+      "risposta": "Le principali agevolazioni per le PMI nel 2026 includono: credito d'imposta Transizione 5.0 per investimenti in beni strumentali innovativi (fino al 45%), deducibilità degli interessi passivi (ROL), Patent Box per redditi da proprietà intellettuale, agevolazioni per la quotazione in borsa (PIV), e il concordato preventivo biennale per chi accetta la proposta dell'AdE."
+    },
+    {
+      "domanda": "Come funzionano i controlli dell'Agenzia delle Entrate?",
+      "risposta": "L'Agenzia delle Entrate effettua controlli automatici (liquidazione IVA, confronto dati ISA), controlli formali e accertamenti sostanziali. La nostra assistenza include: risposta ai questionari, accesso agli atti, istanze di autotutela, accertamento con adesione e, se necessario, ricorso in Commissione Tributaria. Lo studio affianca il cliente in ogni fase."
+    },
+    {
+      "domanda": "Cosa include la gestione delle paghe?",
+      "risposta": "Il servizio comprende: elaborazione mensile dei cedolini, calcolo di IRPEF, contributi INPS/INAIL e addizionali, versamento F24, gestione ferie, permessi e malattie, comunicazioni obbligatorie (UNILAV), modello 770 semplificato, CU ai dipendenti, gestione TFR e liquidazioni. Operativo per tutti i principali CCNL."
+    },
+    {
+      "domanda": "Quanto costa costituire una SRL?",
+      "risposta": "Una SRL semplificata (SRLS) si costituisce con capitale minimo di €1 e costi notarili ridotti (~€500-800 + tasse). Una SRL ordinaria richiede almeno €10.000 di capitale e costi notarili di €1.500-3.000. A questi si aggiungono: imposta di registro €200, bolli ~€150, tassa CCIAA ~€360/anno. Lo studio segue l'intero iter compreso lo statuto personalizzato."
+    },
+    {
+      "domanda": "Lavorate solo con aziende milanesi o anche con clienti remoti?",
+      "risposta": "Serviamo principalmente PMI lombarde, ma lavoriamo in tutta Italia grazie alla dematerializzazione dei documenti. Utilizziamo portali sicuri per la condivisione di documenti fiscali e firma digitale. Le riunioni periodiche possono svolgersi in videochiamata. Il software gestionale è accessibile ai clienti da remoto tramite credenziali dedicate."
+    }
+  ]
+}

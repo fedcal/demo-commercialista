@@ -1,0 +1,92 @@
+{
+  "servizi": [
+    {
+      "id": "contabilita-ordinaria",
+      "nome": "Contabilità ordinaria",
+      "descrizione": "Tenuta della contabilità ordinaria per società di capitali, SRL e SPA. Registrazioni IVA, libro giornale, registri obbligatori, bilancio annuale CEE e nota integrativa.",
+      "icona": "📊",
+      "categoria": "contabilita",
+      "destinatari": ["SRL", "SPA", "snc con ricavi > €400k"],
+      "frequenza": "Mensile / trimestrale",
+      "incluso": ["Registrazione fatture attive e passive", "Liquidazione IVA mensile/trimestrale", "Bilancio CEE e nota integrativa", "Deposito CCIAA"]
+    },
+    {
+      "id": "contabilita-semplificata",
+      "nome": "Contabilità semplificata",
+      "descrizione": "Gestione contabile semplificata per ditte individuali, professionisti e piccole società di persone. Registri IVA, libro incassi e pagamenti, rendiconto annuale.",
+      "icona": "📋",
+      "categoria": "contabilita",
+      "destinatari": ["Ditte individuali", "Professionisti", "SNC/SAS sotto soglia"],
+      "frequenza": "Mensile / trimestrale",
+      "incluso": ["Registri IVA acquisti e vendite", "Libro incassi/pagamenti", "Determinazione reddito di impresa", "Comunicazioni periodiche"]
+    },
+    {
+      "id": "dichiarativi",
+      "nome": "Dichiarativi fiscali",
+      "descrizione": "Predisposizione e invio telematico di tutte le dichiarazioni fiscali: Redditi, IRAP, IVA annuale, 770, CU, ISA. Assistenza nei rimborsi e nel ravvedimento operoso.",
+      "icona": "📄",
+      "categoria": "fiscale",
+      "destinatari": ["Tutti i regimi fiscali"],
+      "frequenza": "Annuale / periodico",
+      "incluso": ["Modello Redditi SC/SP/PF", "Dichiarazione IRAP", "IVA annuale", "Modello 770 e CU", "ISA (ex studi di settore)"]
+    },
+    {
+      "id": "paghe",
+      "nome": "Gestione paghe e contributi",
+      "descrizione": "Elaborazione mensile cedolini paga, calcolo contributi INPS e INAIL, versamenti F24, gestione trasferte e rimborsi spese, comunicazioni obbligatorie (COB/UNILAV).",
+      "icona": "👥",
+      "categoria": "lavoro",
+      "destinatari": ["Datori di lavoro con dipendenti"],
+      "frequenza": "Mensile",
+      "incluso": ["Cedolini paga", "F24 contributi e ritenute", "Modello 770 semplificato", "CU dipendenti", "TFR e accantonamenti"]
+    },
+    {
+      "id": "consulenza-fiscale",
+      "nome": "Consulenza fiscale straordinaria",
+      "descrizione": "Pianificazione fiscale preventiva, ottimizzazione del carico tributario, analisi di operazioni straordinarie. Prima consulenza gratuita di 30 minuti.",
+      "icona": "💡",
+      "categoria": "fiscale",
+      "destinatari": ["Imprenditori", "Professionisti", "Investitori"],
+      "frequenza": "Su richiesta",
+      "incluso": ["Tax planning annuale", "Analisi operazioni straordinarie", "Perizie di valore", "Interpello all'Agenzia delle Entrate"]
+    },
+    {
+      "id": "costituzione-srl",
+      "nome": "Costituzione e gestione SRL",
+      "descrizione": "Assistenza completa nella costituzione di SRL ordinarie e semplificate: statuto, atto costitutivo, delibere assembleari, adempimenti CCIAA, apertura partita IVA.",
+      "icona": "🏢",
+      "categoria": "societario",
+      "destinatari": ["Nuovi imprenditori", "Startup", "Professionisti in forma societaria"],
+      "frequenza": "Una tantum + gestione corrente",
+      "incluso": ["Statuto e atto costitutivo", "Iscrizione CCIAA", "Apertura partita IVA", "Libro soci e assemblee", "Deposito bilancio"]
+    },
+    {
+      "id": "audit",
+      "nome": "Revisione contabile e audit",
+      "descrizione": "Revisione legale dei conti per società obbligate (SRL > soglie art. 2477 c.c.) e volontaria. Attestazione bilanci, due diligence contabile per operazioni M&A.",
+      "icona": "🔍",
+      "categoria": "revisione",
+      "destinatari": ["SRL sopra soglie", "Società con finanziamenti bancari", "Target M&A"],
+      "frequenza": "Annuale",
+      "incluso": ["Revisione bilancio civilistico", "Relazione di revisione", "Due diligence contabile", "Attestazione per istituti bancari"]
+    },
+    {
+      "id": "mediazione-tributaria",
+      "nome": "Mediazione e contenzioso tributario",
+      "descrizione": "Assistenza nel contenzioso tributario: ricorsi in commissione tributaria, mediazione obbligatoria fino a €50.000, accertamenti con adesione, concordato preventivo biennale.",
+      "icona": "⚖️",
+      "categoria": "contenzioso",
+      "destinatari": ["Imprese e privati con accertamenti"],
+      "frequenza": "Su richiesta",
+      "incluso": ["Ricorso CTP/CTR", "Mediazione obbligatoria", "Accertamento con adesione", "Autotutela", "Concordato preventivo biennale 2024-2025"]
+    }
+  ],
+  "categorie": [
+    { "id": "contabilita", "nome": "Contabilità", "ordine": 1 },
+    { "id": "fiscale", "nome": "Fiscalità", "ordine": 2 },
+    { "id": "lavoro", "nome": "Lavoro e paghe", "ordine": 3 },
+    { "id": "societario", "nome": "Diritto societario", "ordine": 4 },
+    { "id": "revisione", "nome": "Revisione", "ordine": 5 },
+    { "id": "contenzioso", "nome": "Contenzioso", "ordine": 6 }
+  ]
+}

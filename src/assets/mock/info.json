@@ -1,0 +1,47 @@
+{
+  "ragioneSociale": "Studio Bertoni & Associati s.r.l.",
+  "nomeCommerciale": "Studio Bertoni Commercialisti",
+  "tagline": "Consulenza fiscale e gestione contabile per PMI dal 1992",
+  "fondazione": 1992,
+  "dipendenti": 6,
+  "indirizzo": {
+    "via": "Via Vittor Pisani 12",
+    "piano": "3° piano",
+    "citta": "Milano",
+    "provincia": "MI",
+    "cap": "20124",
+    "regione": "Lombardia",
+    "paese": "Italia",
+    "lat": 45.4843,
+    "lng": 9.2045
+  },
+  "contatti": {
+    "telefono": "+39 02 6789 1234",
+    "fax": "+39 02 6789 1235",
+    "email": "info@studiobertoni.it",
+    "pec": "studiobertoni@pec.it",
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/studio-bertoni-commercialisti"
+    }
+  },
+  "orari": {
+    "lunedi": "09:00 – 18:00",
+    "martedi": "09:00 – 18:00",
+    "mercoledi": "09:00 – 18:00",
+    "giovedi": "09:00 – 18:00",
+    "venerdi": "09:00 – 17:00",
+    "sabato": "Chiuso",
+    "domenica": "Chiuso"
+  },
+  "iscrizioni": {
+    "odcec": "Ordine dei Dottori Commercialisti ed Esperti Contabili di Milano",
+    "numeroIscrizione": "MI-12847",
+    "revisoriLegali": true,
+    "consulentiLavoro": true
+  },
+  "metaSeo": {
+    "title": "Studio Bertoni Commercialisti — Consulenza fiscale Milano dal 1992",
+    "description": "Consulenza fiscale, contabilità ordinaria/semplificata, dichiarativi, paghe e costituzione SRL per PMI a Milano. Iscritti OdCEC Milano.",
+    "keywords": ["commercialista Milano", "consulenza fiscale Milano", "contabilità PMI", "dichiarativi fiscali", "gestione paghe", "costituzione SRL"]
+  }
+}

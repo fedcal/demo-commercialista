@@ -1,0 +1,150 @@
+{
+  "scadenze": [
+    {
+      "id": 1,
+      "data": "2026-01-16",
+      "mese": "Gennaio",
+      "titolo": "Versamento IVA dicembre",
+      "descrizione": "Liquidazione e versamento IVA del mese di dicembre per contribuenti mensili.",
+      "tipo": "iva",
+      "soggetti": ["Contribuenti IVA mensili"]
+    },
+    {
+      "id": 2,
+      "data": "2026-02-28",
+      "mese": "Febbraio",
+      "titolo": "Certificazioni Uniche (CU)",
+      "descrizione": "Consegna ai percettori e trasmissione telematica all'AdE delle CU per redditi di lavoro dipendente e assimilati.",
+      "tipo": "lavoro",
+      "soggetti": ["Sostituti d'imposta"]
+    },
+    {
+      "id": 3,
+      "data": "2026-03-31",
+      "mese": "Marzo",
+      "titolo": "Comunicazione Liquidazioni IVA (LIPE) Q4",
+      "descrizione": "Trasmissione telematica della comunicazione liquidazioni IVA del quarto trimestre dell'anno precedente.",
+      "tipo": "iva",
+      "soggetti": ["Contribuenti IVA trimestrali e mensili"]
+    },
+    {
+      "id": 4,
+      "data": "2026-04-30",
+      "mese": "Aprile",
+      "titolo": "Approvazione bilancio esercizio 2025",
+      "descrizione": "Termine entro cui le SRL devono convocare l'assemblea per l'approvazione del bilancio d'esercizio 2025 (120 giorni dalla chiusura).",
+      "tipo": "societario",
+      "soggetti": ["SRL e società di capitali"]
+    },
+    {
+      "id": 5,
+      "data": "2026-05-31",
+      "mese": "Maggio",
+      "titolo": "Deposito bilancio CCIAA",
+      "descrizione": "Deposito del bilancio 2025 approvato presso la Camera di Commercio entro 30 giorni dall'approvazione assembleare.",
+      "tipo": "societario",
+      "soggetti": ["SRL e società di capitali"]
+    },
+    {
+      "id": 6,
+      "data": "2026-06-16",
+      "mese": "Giugno",
+      "titolo": "Saldo IRPEF/IRAP e acconto giugno",
+      "descrizione": "Versamento del saldo imposte 2025 e del primo acconto 2026. È possibile rateizzare fino a novembre con interessi mensili dello 0,33%.",
+      "tipo": "imposte",
+      "soggetti": ["Persone fisiche", "Società di persone", "Enti non commerciali"]
+    },
+    {
+      "id": 7,
+      "data": "2026-07-31",
+      "mese": "Luglio",
+      "titolo": "Dichiarazione IVA annuale 2025",
+      "descrizione": "Trasmissione telematica della dichiarazione IVA annuale per l'anno 2025 (entro il 30 aprile se autonoma, entro luglio se compresa nel Modello Redditi).",
+      "tipo": "iva",
+      "soggetti": ["Tutti i soggetti passivi IVA"]
+    },
+    {
+      "id": 8,
+      "data": "2026-10-31",
+      "mese": "Ottobre",
+      "titolo": "Modello Redditi 2025 — invio telematico",
+      "descrizione": "Invio telematico del Modello Redditi PF/SP/SC per l'anno d'imposta 2025. Possibile proroga al 30 novembre per alcune categorie.",
+      "tipo": "dichiarativi",
+      "soggetti": ["Persone fisiche", "Società di persone", "Enti e Società"]
+    },
+    {
+      "id": 9,
+      "data": "2026-11-30",
+      "mese": "Novembre",
+      "titolo": "Secondo acconto IRPEF/IRAP 2026",
+      "descrizione": "Versamento del secondo acconto IRPEF e IRAP per il 2026 (100% del saldo anno precedente o metodo previsionale).",
+      "tipo": "imposte",
+      "soggetti": ["Tutti i soggetti IRPEF/IRES/IRAP"]
+    },
+    {
+      "id": 10,
+      "data": "2026-12-16",
+      "mese": "Dicembre",
+      "titolo": "Versamento IMU/TASI saldo",
+      "descrizione": "Versamento saldo IMU per immobili strumentali, seconde case e aree edificabili. Il saldo si calcola in base alle aliquote deliberate dai Comuni.",
+      "tipo": "imposte",
+      "soggetti": ["Proprietari immobili", "Aziende con immobili strumentali"]
+    }
+  ],
+  "guide": [
+    {
+      "id": "g1",
+      "titolo": "Guida al regime forfettario 2026",
+      "descrizione": "Requisiti di accesso, soglie di ricavo, coefficienti di redditività per categoria, cause ostative e confronto con regime ordinario.",
+      "categoria": "regime-fiscale",
+      "livello": "Base",
+      "pagine": 12,
+      "icona": "📘"
+    },
+    {
+      "id": "g2",
+      "titolo": "Costituire una SRL: guida completa",
+      "descrizione": "Dall'idea alla partita IVA: statuto, capitale sociale, atto notarile, iscrizione CCIAA, adempimenti iniziali. Con checklist operativa.",
+      "categoria": "societario",
+      "livello": "Intermedio",
+      "pagine": 18,
+      "icona": "📙"
+    },
+    {
+      "id": "g3",
+      "titolo": "Fatturazione elettronica B2B e PA",
+      "descrizione": "Come funziona lo SDI, la conservazione sostitutiva, i codici destinatario, la gestione degli scarti e le sanzioni per omessa/errata fatturazione.",
+      "categoria": "adempimenti",
+      "livello": "Base",
+      "pagine": 8,
+      "icona": "📗"
+    },
+    {
+      "id": "g4",
+      "titolo": "Transizione 5.0: credito d'imposta per PMI",
+      "descrizione": "Come accedere al credito d'imposta fino al 45% per investimenti in beni strumentali 4.0 con riduzione consumi energetici. Documentazione richiesta e cumulabilità.",
+      "categoria": "agevolazioni",
+      "livello": "Avanzato",
+      "pagine": 22,
+      "icona": "📕"
+    },
+    {
+      "id": "g5",
+      "titolo": "Concordato preventivo biennale 2025-2026",
+      "descrizione": "A chi conviene, come calcolare la proposta dell'Agenzia delle Entrate, vantaggi e rischi. Confronto per tipologia di contribuente ISA.",
+      "categoria": "fiscale",
+      "livello": "Intermedio",
+      "pagine": 14,
+      "icona": "📒"
+    },
+    {
+      "id": "g6",
+      "titolo": "Gestione del contenzioso tributario",
+      "descrizione": "Iter dell'accertamento: avviso bonario, mediazione obbligatoria, ricorso CTP, appello CTR. Termini perentori e strategie difensive.",
+      "categoria": "contenzioso",
+      "livello": "Avanzato",
+      "pagine": 20,
+      "icona": "⚖️"
+    }
+  ]
+}

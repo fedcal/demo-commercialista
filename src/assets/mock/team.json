@@ -1,0 +1,70 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Dott. Marco Bertoni",
+      "ruolo": "Fondatore e Socio Gestore",
+      "titolo": "Dottore Commercialista",
+      "bio": "Laureato in Economia e Commercio all'Università Bocconi di Milano nel 1989, iscritto all'Albo dal 1992. Ha fondato lo studio dopo un'esperienza decennale in una Big Four. Specializzato in pianificazione fiscale per PMI e operazioni straordinarie.",
+      "anniEsperienza": 34,
+      "albo": "OdCEC Milano n. MI-12847",
+      "specialita": ["Pianificazione fiscale", "Operazioni straordinarie", "Revisione legale"],
+      "email": "m.bertoni@studiobertoni.it"
+    },
+    {
+      "id": 2,
+      "nome": "Dott.ssa Chiara Ferretti",
+      "ruolo": "Commercialista Senior",
+      "titolo": "Dottoressa Commercialista",
+      "bio": "Specializzata in diritto del lavoro e gestione paghe. Oltre 15 anni di esperienza nella consulenza alle imprese manifatturiere lombarde. Responsabile dell'area paghe e contributi.",
+      "anniEsperienza": 15,
+      "albo": "OdCEC Milano n. MI-23451",
+      "specialita": ["Diritto del lavoro", "Gestione paghe", "Contabilità industriale"],
+      "email": "c.ferretti@studiobertoni.it"
+    },
+    {
+      "id": 3,
+      "nome": "Dott. Luca Amati",
+      "ruolo": "Commercialista Senior",
+      "titolo": "Dottore Commercialista",
+      "bio": "Esperto di contenzioso tributario e mediazione fiscale. Ha gestito oltre 200 ricorsi in Commissione Tributaria Provinciale di Milano. Consulente di fiducia per diverse associazioni di categoria.",
+      "anniEsperienza": 12,
+      "albo": "OdCEC Milano n. MI-31892",
+      "specialita": ["Contenzioso tributario", "Mediazione fiscale", "IVA e dogane"],
+      "email": "l.amati@studiobertoni.it"
+    },
+    {
+      "id": 4,
+      "nome": "Dott.ssa Sofia Mantovani",
+      "ruolo": "Commercialista Junior",
+      "titolo": "Dottoressa Commercialista",
+      "bio": "Laurea magistrale con lode in Economia Aziendale all'Università degli Studi di Milano. Specializzanda in fiscalità internazionale e startup innovative. Segue principalmente le pratiche di costituzione societaria.",
+      "anniEsperienza": 4,
+      "albo": "OdCEC Milano n. MI-48721",
+      "specialita": ["Startup e SRL innovative", "Fiscalità internazionale", "Dichiarativi"],
+      "email": "s.mantovani@studiobertoni.it"
+    },
+    {
+      "id": 5,
+      "nome": "Dott. Davide Rossi",
+      "ruolo": "Commercialista Junior",
+      "titolo": "Dottore Commercialista",
+      "bio": "Praticante abilitato, laureato in Scienze dell'Economia. Supporta il team nell'elaborazione contabile, nella predisposizione delle dichiarazioni fiscali e nel controllo di gestione.",
+      "anniEsperienza": 2,
+      "albo": "OdCEC Milano — praticante abilitato",
+      "specialita": ["Contabilità ordinaria", "Dichiarativi", "Controllo di gestione"],
+      "email": "d.rossi@studiobertoni.it"
+    },
+    {
+      "id": 6,
+      "nome": "Sig.ra Elena Colombo",
+      "ruolo": "Responsabile Segreteria e Front Office",
+      "titolo": "",
+      "bio": "Coordinatrice dello studio dal 2005. Gestisce l'agenda, le scadenze fiscali, i rapporti con l'Agenzia delle Entrate, INPS e CCIAA. Primo punto di contatto per i clienti dello studio.",
+      "anniEsperienza": 19,
+      "albo": "",
+      "specialita": ["Gestione scadenze", "Pratiche CCIAA", "Rapporti con Enti"],
+      "email": "segreteria@studiobertoni.it"
+    }
+  ]
+}
